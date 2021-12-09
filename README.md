@@ -1,0 +1,3 @@
+# Desafio aprender na Pratica Programacao Orientada a Objectos
+
+In this simple project we discovered the OOP pillars and some "advanced" concepts as Hash, Set, Stream ecc...
